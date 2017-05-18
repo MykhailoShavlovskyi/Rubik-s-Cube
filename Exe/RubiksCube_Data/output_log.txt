@@ -7,17 +7,17 @@ Direct3D:
     VRAM:     1012 MB
     Driver:   14.501.1003.0
 Begin MonoManager ReloadAssembly
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.125 seconds
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\System.Core.dll (this message is harmless)
-Platform assembly: C:\Users\Миша\Desktop\Study\MiniGames\RubiksCube\RubiksCube_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.040 seconds
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Миша\Desktop\Study\Projects\RubiksCube\RubiksCube_Data\Managed\System.dll (this message is harmless)
 desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
@@ -26,9 +26,9 @@ The referenced script on this Behaviour (Game Object 'Sphere') is missing!
  
 (Filename:  Line: 1743)
 
-UnloadTime: 1.088755 ms
+UnloadTime: 1.192889 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 2620 -> priority: 1 
-  Thread -> id: e6c -> priority: 1 
-  Thread -> id: 3134 -> priority: 1 
-  Thread -> id: 3270 -> priority: 1 
+  Thread -> id: 3324 -> priority: 1 
+  Thread -> id: 175c -> priority: 1 
+  Thread -> id: 2270 -> priority: 1 
+  Thread -> id: 2580 -> priority: 1 
