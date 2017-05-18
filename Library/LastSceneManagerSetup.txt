@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/RubiksCube/RubiksCube.unity
+  isLoaded: 1
+  isActive: 1
