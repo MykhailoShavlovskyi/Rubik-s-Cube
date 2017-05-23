@@ -7,23 +7,26 @@ public class Orbit : MonoBehaviour {
 	[SerializeField] private CubeGen target;
 
 	private float distance;
-	Vector3 distanceVector = new Vector3 (1, 0, 0);
+	Vector3 distanceVector = new Vector3 (0.6f, 0.5f, -0.6f);
 
-	float oldX;
-	float oldY;
+	float oldX = 45;
+	float oldY = -30;
 
-	float currentX;
-	float currentY;
+	float currentX = 45;
+	float currentY = -30;
 
 	void Start () 
 	{
 		
 	}
-	
 
 	void Update () 
 	{
 		Move ();
+
+		Debug.Log (currentX);
+		Debug.Log (currentY);
+		Debug.Log (distanceVector);
 	}
 
 	public void Move()
@@ -58,7 +61,6 @@ public class Orbit : MonoBehaviour {
 
 			distanceVector = Quaternion.Euler (0, 0, -currentY) * new Vector3 (1, 0, 0);
 			distanceVector = Quaternion.Euler (0, currentX, 0) * distanceVector;
-
 
 			oldX = Input.mousePosition.x;
 			oldY = Input.mousePosition.y;

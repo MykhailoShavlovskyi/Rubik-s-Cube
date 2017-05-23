@@ -28,7 +28,7 @@ public class CubeGen : MonoBehaviour
 
 	void Start()
 	{
-		
+		Generate (3);
 	}
 
 	void Update()
